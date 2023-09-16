@@ -4,7 +4,7 @@ import { Stack } from "@mui/material";
 
 import Logo from "../assets/images/Logo.png";
 
-const NavbarCom = () => (
+const Navbar = () => (
   <Stack
     direction="row"
     justifyContent="space-around"
@@ -46,4 +46,4 @@ const NavbarCom = () => (
   </Stack>
 );
 
-export default NavbarCom;
+export default Navbar;
